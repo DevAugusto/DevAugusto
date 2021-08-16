@@ -1,4 +1,4 @@
-## Hello world! , I'm Victor Augusto
+## Hello world! , I'm Augusto
 
 #### I'm a front-end web developer and I have 2 years of experience in the field.
 
