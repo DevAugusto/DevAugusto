@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello world! , I'm Augusto
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> #### Hello world! , I'm Augusto
 
 #### I'm a front-end web developer and I have 2 years of experience in the field.
 
