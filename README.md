@@ -6,6 +6,17 @@
 
 - 👑 Founder and CEO of [🍒 Cherry Code](https://cherrycode.com.br) . 
 - ⚡ Fun fact "LegendaryForwards was right all the time." 😂
+
+ ##
+ 
+   <div align="center">
+    &nbsp;
+    <a href="https://github.com/DevAugusto">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAugusto&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAugusto&layout=compact&langs_count=7&theme=jolly"/>
+    </a>
+  </div>
+  
  ##
   <div> 
     <a href="https://www.youtube.com/channel/UCz6Lv2Jx10_InkoJ-o03jYQ" target="_blank">
@@ -43,16 +54,6 @@
     <img align="center" alt="guto-BTT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
 
-  ##
-  
-  <div align="center">
-    &nbsp;
-    <a href="https://github.com/DevAugusto">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAugusto&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAugusto&layout=compact&langs_count=7&theme=jolly"/>
-    </a>
-  </div>
-  
   ##
   
   <h3>Também me interesso por:</h3>
