@@ -4,8 +4,7 @@
 
 #### I'm a front-end web developer and I have 2 years of experience in the field.
 
-- 🔭 I’m currently working on [🍒 Cherry Code](https://cherrycode.com.br)  (Founder and CEO)
-- 🌱 I’m currently learning **JavaScript** , **NodeJs** and **Java**
+- 👑 Founder and CEO of [🍒 Cherry Code](https://cherrycode.com.br) . 
 - ⚡ Fun fact "LegendaryForwards was right all the time." 😂
  ##
   <div> 
