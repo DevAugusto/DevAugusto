@@ -1,6 +1,6 @@
 <img align="center" alt="guto-HTML" width="100%" heigth="auto" src="https://i.imgur.com/vPeSBIk.gif">
 
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">   Hello world! I'm Augusto</h2>
+<h2>👋 Hello world! I'm Augusto</h2>
 
 #### I'm a front-end web developer and I have 2 years of experience in the field.
 
@@ -64,3 +64,4 @@
     <img align="center" alt="guto-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="guto-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </div>
+
