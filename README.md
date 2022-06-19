@@ -1,6 +1,6 @@
 <img align="center" alt="guto-HTML" width="100%" heigth="auto" src="https://i.imgur.com/vPeSBIk.gif">
 
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   Hello world! I'm Augusto</h2>
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">   Hello world! I'm Augusto</h2>
 
 #### I'm a front-end web developer and I have 2 years of experience in the field.
 
